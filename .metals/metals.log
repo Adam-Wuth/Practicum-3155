@@ -654,3 +654,5 @@ WARNING: Unmatched cancel notification for request id 4570
 2024.08.06 12:10:56 INFO  time: compiled root in 0.86s
 2024.08.06 12:11:32 INFO  compiling root (1 scala source)
 2024.08.06 12:11:32 INFO  time: compiled root in 0.85s
+Aug 06, 2024 12:12:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
