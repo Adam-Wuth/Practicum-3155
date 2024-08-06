@@ -5,6 +5,24 @@ sealed trait Expr {
     this match {
       case v: Value => v
       case ManyExprs(lst) => ManyVals(lst.map(_.eval))
+      case Plus(e1, e2) => 
+        val v1 = e1.eval
+        val v2 = e2.eval
+        (v1, v2) match{
+            case (VeryHappy, _) => VeryHappy
+            case (_, VeryHappy) => VeryHappy
+            case (Cry, _) => v2
+            case(Happy, Cry) => Cry
+            case(Stun, Cry) => Cry
+            
+            // case (_, Cry) =>
+            //     v1 match{
+            //         case Happy => Cry
+            //         case Stun => Cry
+            //     }
+            case _ => throw new RuntimeException("Error Evaluating in Plus")
+        }
+        
       case _ => throw new RuntimeException("Error Evaluating")
     }
   }

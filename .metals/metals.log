@@ -574,3 +574,83 @@ WARNING: Unmatched cancel notification for request id 2493
 2024.08.06 11:54:50 INFO  time: compiled root in 2.13s
 2024.08.06 11:54:55 INFO  compiling root (1 scala source)
 2024.08.06 11:54:55 INFO  time: compiled root in 0.56s
+2024.08.06 11:56:08 INFO  compiling root (1 scala source)
+2024.08.06 11:56:09 INFO  time: compiled root in 1.28s
+2024.08.06 11:56:14 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ajwuth/Code/Practicum/Practicum-3155/.metals/dap-server.trace.json or /Users/ajwuth/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2024.08.06 11:56:14 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ajwuth/Code/Practicum/Practicum-3155/.metals/dap-client.trace.json or /Users/ajwuth/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2024.08.06 11:56:15 INFO  Starting debug proxy for [MySuite(example test that succeeds)]
+2024.08.06 11:56:15 INFO  Initialized Scala 3 decoder in 2 milliseconds
+2024.08.06 11:56:15 INFO  Trying to attach to remote debuggee VM localhost:62843 .
+2024.08.06 11:56:15 INFO  Attaching to debuggee VM succeeded.
+2024.08.06 11:56:17 INFO  Canceling debug proxy for [MySuite(example test that succeeds)]
+2024.08.06 11:56:17 INFO  Closing debug server tcp://0.0.0.0:62840
+2024.08.06 11:56:35 INFO  compiling root-test (1 scala source)
+2024.08.06 11:56:35 INFO  time: compiled root-test in 0.42s
+2024.08.06 11:58:12 INFO  compiling root (1 scala source)
+2024.08.06 11:58:13 INFO  time: compiled root in 1.09s
+2024.08.06 11:58:23 INFO  compiling root-test (1 scala source)
+2024.08.06 11:58:23 INFO  time: compiled root-test in 0.4s
+2024.08.06 11:59:30 INFO  compiling root-test (1 scala source)
+2024.08.06 11:59:31 INFO  time: compiled root-test in 1.61s
+2024.08.06 11:59:37 INFO  compiling root-test (1 scala source)
+2024.08.06 11:59:38 INFO  time: compiled root-test in 1.15s
+2024.08.06 11:59:41 INFO  compiling root-test (1 scala source)
+2024.08.06 11:59:43 INFO  time: compiled root-test in 1.42s
+2024.08.06 11:59:52 INFO  compiling root-test (1 scala source)
+2024.08.06 11:59:52 INFO  time: compiled root-test in 0.24s
+2024.08.06 12:00:39 INFO  compiling root-test (1 scala source)
+2024.08.06 12:00:41 INFO  time: compiled root-test in 1.95s
+2024.08.06 12:00:53 INFO  compiling root-test (1 scala source)
+2024.08.06 12:00:54 INFO  time: compiled root-test in 1.49s
+2024.08.06 12:01:36 INFO  compiling root-test (1 scala source)
+2024.08.06 12:01:37 INFO  time: compiled root-test in 1.28s
+2024.08.06 12:01:41 INFO  compiling root-test (1 scala source)
+2024.08.06 12:01:42 INFO  time: compiled root-test in 1.04s
+Aug 06, 2024 12:02:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3181
+2024.08.06 12:02:20 INFO  compiling root (1 scala source)
+2024.08.06 12:02:20 INFO  time: compiled root in 0.23s
+2024.08.06 12:02:30 INFO  compiling root (1 scala source)
+2024.08.06 12:02:30 INFO  time: compiled root in 0.5s
+2024.08.06 12:02:32 INFO  compiling root (1 scala source)
+2024.08.06 12:02:32 INFO  time: compiled root in 0.34s
+2024.08.06 12:02:56 INFO  compiling root (1 scala source)
+2024.08.06 12:02:56 INFO  time: compiled root in 0.2s
+Aug 06, 2024 12:02:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3440
+2024.08.06 12:04:11 INFO  compiling root (1 scala source)
+2024.08.06 12:04:13 INFO  time: compiled root in 2.17s
+Aug 06, 2024 12:04:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3689
+2024.08.06 12:04:30 INFO  compiling root (1 scala source)
+2024.08.06 12:04:30 INFO  time: compiled root in 0.38s
+Aug 06, 2024 12:05:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3813
+2024.08.06 12:05:18 INFO  compiling root (1 scala source)
+2024.08.06 12:05:19 INFO  time: compiled root in 1.21s
+Aug 06, 2024 12:05:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3964
+2024.08.06 12:05:40 INFO  compiling root (1 scala source)
+2024.08.06 12:05:40 INFO  time: compiled root in 0.65s
+2024.08.06 12:06:35 INFO  compiling root (1 scala source)
+2024.08.06 12:06:36 INFO  time: compiled root in 1.06s
+2024.08.06 12:07:35 INFO  compiling root (1 scala source)
+2024.08.06 12:07:35 INFO  time: compiled root in 0.67s
+2024.08.06 12:08:20 INFO  compiling root (1 scala source)
+2024.08.06 12:08:20 INFO  time: compiled root in 1s
+2024.08.06 12:09:10 INFO  compiling root (1 scala source)
+2024.08.06 12:09:10 INFO  time: compiled root in 0.21s
+2024.08.06 12:09:42 INFO  compiling root (1 scala source)
+2024.08.06 12:09:42 INFO  time: compiled root in 0.89s
+Aug 06, 2024 12:10:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4431
+Aug 06, 2024 12:10:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4450
+Aug 06, 2024 12:10:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4529
+Aug 06, 2024 12:10:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4570
+2024.08.06 12:10:56 INFO  compiling root (1 scala source)
+2024.08.06 12:10:56 INFO  time: compiled root in 0.86s
+2024.08.06 12:11:32 INFO  compiling root (1 scala source)
+2024.08.06 12:11:32 INFO  time: compiled root in 0.85s
