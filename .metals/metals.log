@@ -442,3 +442,135 @@ WARNING: Unmatched cancel notification for request id 966
 2024.08.06 11:38:08 INFO  time: compiled root in 0.25s
 2024.08.06 11:38:13 INFO  compiling root (1 scala source)
 2024.08.06 11:38:13 INFO  time: compiled root in 0.74s
+2024.08.06 11:41:24 INFO  compiling root (1 scala source)
+2024.08.06 11:41:24 INFO  time: compiled root in 0.42s
+2024.08.06 11:41:37 INFO  compiling root (1 scala source)
+2024.08.06 11:41:37 INFO  time: compiled root in 0.29s
+Aug 06, 2024 11:41:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1608
+2024.08.06 11:41:53 INFO  compiling root (1 scala source)
+2024.08.06 11:41:53 INFO  time: compiled root in 0.24s
+2024.08.06 11:41:57 INFO  compiling root (1 scala source)
+2024.08.06 11:41:57 INFO  time: compiled root in 0.77s
+Aug 06, 2024 11:42:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1674
+Aug 06, 2024 11:42:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1693
+2024.08.06 11:42:20 INFO  compiling root (1 scala source)
+2024.08.06 11:42:20 INFO  time: compiled root in 0.67s
+Aug 06, 2024 11:42:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1755
+2024.08.06 11:42:49 INFO  compiling root (1 scala source)
+2024.08.06 11:42:49 INFO  time: compiled root in 0.72s
+Aug 06, 2024 11:46:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2047
+2024.08.06 11:47:46 INFO  compiling root (1 scala source)
+2024.08.06 11:47:47 INFO  time: compiled root in 1.62s
+2024.08.06 11:48:04 INFO  compiling root (1 scala source)
+2024.08.06 11:48:04 INFO  time: compiled root in 0.59s
+2024.08.06 11:48:48 INFO  compiling root (1 scala source)
+2024.08.06 11:48:48 INFO  time: compiled root in 0.95s
+2024.08.06 11:49:06 INFO  compiling root (1 scala source)
+2024.08.06 11:49:06 INFO  time: compiled root in 0.54s
+2024.08.06 11:49:07 INFO  compiling root (1 scala source)
+2024.08.06 11:49:08 INFO  time: compiled root in 1.22s
+2024.08.06 11:49:17 INFO  compiling root (1 scala source)
+2024.08.06 11:49:17 INFO  time: compiled root in 0.11s
+2024.08.06 11:49:19 INFO  compiling root (1 scala source)
+2024.08.06 11:49:19 INFO  time: compiled root in 0.59s
+2024.08.06 11:49:30 INFO  compiling root (1 scala source)
+2024.08.06 11:49:30 INFO  time: compiled root in 0.62s
+Aug 06, 2024 11:49:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2353
+2024.08.06 11:50:16 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:16 INFO  compiling root (1 scala source)
+2024.08.06 11:50:16 INFO  time: compiled root in 0.73s
+2024.08.06 11:50:18 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:18 INFO  compiling root (1 scala source)
+2024.08.06 11:50:18 INFO  time: compiled root in 0.61s
+2024.08.06 11:50:19 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:22 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:22 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:22 INFO  compiling root (1 scala source)
+2024.08.06 11:50:22 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:22 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:22 INFO  time: compiled root in 0.52s
+2024.08.06 11:50:23 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:54 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:50:57 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:31 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:41 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:45 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:48 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:51 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:52 INFO  compiling root (1 scala source)
+2024.08.06 11:51:52 INFO  time: compiled root in 0.59s
+2024.08.06 11:51:53 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:53 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:53 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:53 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:53 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+Aug 06, 2024 11:51:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2457
+2024.08.06 11:51:54 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:54 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:54 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:54 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:54 INFO  compiling root (1 scala source)
+2024.08.06 11:51:54 INFO  time: compiled root in 0.73s
+2024.08.06 11:51:56 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:51:58 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:52:16 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:05 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:11 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+Aug 06, 2024 11:53:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2493
+2024.08.06 11:53:11 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:12 INFO  compiling root (1 scala source)
+2024.08.06 11:53:12 INFO  time: compiled root in 0.66s
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 INFO  compiling root (1 scala source)
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:13 INFO  time: compiled root in 0.81s
+2024.08.06 11:53:15 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:22 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:28 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:32 INFO  compiling root (1 scala source)
+2024.08.06 11:53:32 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:32 INFO  time: compiled root in 0.59s
+2024.08.06 11:53:33 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:40 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:43 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:43 INFO  compiling root (1 scala source)
+2024.08.06 11:53:43 INFO  time: compiled root in 0.45s
+2024.08.06 11:53:44 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:53:50 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:35 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:46 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:48 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:48 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:48 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:48 WARN  Could not load snapshot text for /Users/ajwuth/Code/Practicum/Practicum-3155/src/main/scala/Main.scala
+2024.08.06 11:54:48 INFO  compiling root (1 scala source)
+2024.08.06 11:54:50 INFO  time: compiled root in 2.13s
+2024.08.06 11:54:55 INFO  compiling root (1 scala source)
+2024.08.06 11:54:55 INFO  time: compiled root in 0.56s
